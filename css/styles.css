@@ -1,0 +1,127 @@
+/* Box sizing */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 0.9375rem;
+  font-family: "Lexend Deca", sans-serif;
+  font-weight: 400;
+  background-color: hsl(0, 0%, 95%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: hsla(0, 0%, 100%, 0.75);}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 59%;
+}
+
+/* Cards */
+
+.card {
+  height: 28.125rem;
+  padding: 2.6875rem;
+  position: relative;
+}
+
+.sedan {
+  background-color: hsl(31, 77%, 52%);
+  border-radius: 8px 0 0 8px;
+}
+
+.suv {
+  background-color: hsl(184, 100%, 22%);
+}
+
+.luxury {
+  background-color: hsl(179, 100%, 13%);
+  border-radius: 0 8px 8px 0px;
+}
+
+img {
+  margin-bottom: 1.7rem;
+}
+
+h1 {
+  font-family: "Big Shoulders Display", sans-serif;
+  text-transform: uppercase;
+  font-size: 2.25rem;
+  margin-bottom: 1.5rem;
+  font-weight: 700;
+  color: hsl(0, 0%, 95%);
+}
+
+.card p {
+  color: hsla(0, 0%, 100%, 0.75);
+  line-height: 1.6rem;
+  opacity: 0.9;
+}
+
+button {
+  position: absolute;
+  cursor: pointer;
+  text-align: center;
+  padding: 0.875rem;
+  width: 9.125rem;
+  border-radius: 1.5625rem;
+  outline: none;
+  font-family: inherit;
+  border: 2px solid hsla(0, 0%, 100%, 0.75);
+  display: inline-block;
+  bottom: 2.625rem;
+}
+
+.sedan button {
+  background: hsl(0, 0%, 95%);
+  color: hsl(31, 77%, 52%);
+}
+
+.suv button {
+  background-color: hsl(0, 0%, 95%);
+  color: hsl(184, 100%, 22%);
+}
+
+.luxury button {
+  background-color: hsl(0, 0%, 95%);
+  color: hsl(179, 100%, 13%);
+}
+
+button:hover {
+  background-color: transparent;
+  color: hsl(0, 0%, 95%);
+}
+
+button:active {
+  transform: scale(0.9);
+}
+
+/* Attribution */
+
+.attribution {
+  position: absolute;
+  bottom: 10px;
+  width: 100%;
+  margin: 0 auto;
+  font-size: 0.70rem;
+  line-height: 20px;
+  text-align: center;
+  color: #999;
+}
+
+.attribution a {
+  text-decoration: none;
+  color: #555;
+}
+
+.attribution a:hover {
+  color: #000;
+}
