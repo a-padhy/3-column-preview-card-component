@@ -32,8 +32,8 @@ Desktop version
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Code on GitHub](https://github.com/a-padhy/frontendmentor-3-column-preview-card-component)
+- Live Site URL: [Vercel Live URL](https://your-live-site-url.com)
 
 ## My process
 
@@ -52,5 +52,4 @@ Will do more of this challenges to improve my skills.
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
