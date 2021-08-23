@@ -51,5 +51,6 @@ Will do more of this challenges to improve my skills.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Name - [Ashutosh Padhy](https://ashutoshpadhy.vercel.app/)
+- Frontend Mentor - [@ashutoshpadhy001](https://www.frontendmentor.io/profile/ashutoshpadhy001)
+- Twitter - [@__apadhy](https://www.twitter.com/__apadhy)
