@@ -33,7 +33,7 @@ Desktop version
 ### Links
 
 - Solution URL: [Code on GitHub](https://github.com/a-padhy/frontendmentor-3-column-preview-card-component)
-- Live Site URL: [Vercel Live URL](https://your-live-site-url.com)
+- Live Site URL: [Vercel Live URL](https://frontendmentor-3-column-preview-card-component-virid.vercel.app/)
 
 ## My process
 
