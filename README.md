@@ -8,9 +8,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
-  - [Continued development](#continued-development)
 - [Author](#author)
 
 ## Overview
@@ -32,8 +30,6 @@ Desktop version
 
 - Solution URL: [Code on GitHub](https://github.com/a-padhy/frontendmentor-3-column-preview-card-component)
 - Live Site URL: [Vercel Live URL](https://frontendmentor-3-column-preview-card-component-virid.vercel.app/)
-
-## My process
 
 ### Built with
 
